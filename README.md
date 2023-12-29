@@ -1,3 +1,3 @@
 # Project: Recipes (Foundations Course)
 <h2>About</h2>
-A simple webpage made during the foundations course on the Odin Project. Clicking on a recipe link will show the instructions and ingredients required to make the dish.
+All of the essential tools you'll need to build real, working websites. Learning what web developers actually do – the foundations needed for later courses.
