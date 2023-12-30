@@ -1,0 +1,22 @@
+.odd{
+    background-color:rgb(255, 167, 167);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.even{
+    background-color:rgb(126, 253, 140);
+}
+
+.fontsize{
+    font-size: 24px;
+}
+
+#secondelement{
+    background-color: rgb(255, 255, 255);
+    color: rgb(8, 35, 249);
+    font-size: 36px;
+}
+
+#fourthelement{
+    font-weight: bold;
+}
