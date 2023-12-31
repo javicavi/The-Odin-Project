@@ -1,0 +1,14 @@
+.container>.text{
+    background-color: rgb(255, 253, 67);
+    color: red;
+    font-size: 20px;
+    text-align: center;
+}
+
+/* 
+Other ways to achieve it.
+    div p
+    div > p
+    div .text
+    .container .p
+*/
