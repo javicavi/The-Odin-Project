@@ -3,7 +3,8 @@
 }
 
 body{
-    margin: 0;    
+    margin: 0;
+    background-color: red;
 }
 
 a:link, a:visited{
@@ -21,7 +22,12 @@ nav{
     text-transform: uppercase;
 }
 
-header>nav,article{
+nav h1{
+    margin:0;
+    padding: 0.4rem;
+}
+
+header > nav, article{
     text-align: center;
 }
 
@@ -29,7 +35,6 @@ header img{
     margin: auto;
     display: block;
 }
-
 
 .recipes{
     background-color: rgb(249, 245, 237);
@@ -48,10 +53,12 @@ header img{
     width: 300px;
     padding: 5px;
 }
+
 .recipes img {
 	-webkit-transition: .3s ease-in-out;
 	transition: .3s ease-in-out;
 }
+
 .recipes img:hover{
-	opacity: .8;
+	opacity: 0.8;
 }
